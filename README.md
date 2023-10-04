@@ -1,6 +1,6 @@
 ## <em> Hello, nice to meet you</em>
 <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZrNGY1NGNtM2w5d2trZGJ1NGI5eGwzczM1YzkxYWdkc24zdGxydSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ujrj9aoOdNvXO/giphy.gif" width="100"></p>
-<p style="text-align: center;">&emsp;<em>Full Stack developer</em><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"></p>
+<p style="text-align: center;">&emsp;<em>Full Stack developer</em><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" style="vertical-align: middle;"></p>
 <p>&emsp;<em>Responsible, accessible and efficient development</em><img src="https://media.giphy.com/media/tBfJZKvLczsjHZdKik/giphy.gif" width="40"/></p>
 <p>&emsp;<em>Crossfit and learning lovers</em><img src="https://media.giphy.com/media/REvjZYtjJm4qp1VDDK/giphy.gif" width="40"/></p>
 <p>&emsp;<em>Curious and enjoy life</em><img src="https://media.giphy.com/media/ttKcn2vlNotd8NfW09/giphy.gif" width="40"/></p>
