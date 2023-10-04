@@ -1,6 +1,6 @@
 <p>&emsp;<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZrNGY1NGNtM2w5d2trZGJ1NGI5eGwzczM1YzkxYWdkc24zdGxydSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ujrj9aoOdNvXO/giphy.gif" width="60"><em> Hi, nice to meet you</em></p>
 
-<img align="left" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwMmtxM2RiZmo3NzY2ZjV5amIwbWwzNDY3Y2txcmNjeDd1YzFhMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif"/>
+<img align="left" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwMmtxM2RiZmo3NzY2ZjV5amIwbWwzNDY3Y2txcmNjeDd1YzFhMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif"/>
 
 
 <p>&emsp;<em>Full Stack developer</em><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="60"></p>
